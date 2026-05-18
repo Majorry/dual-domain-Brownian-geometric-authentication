@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+channel-impulse-responses-mar-2019-long-range-experiment-mediterranean-sea/
